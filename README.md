@@ -10,13 +10,13 @@
 3. Выполнить команду для клонирования проекта
 
 ```bash
-git clone https://github.com/IngAivar/Electronics_Trade_Network.git
+git clone https://github.com/arinazaikina/electronics_trade_network_platform.git
 ```
 
 4. Перейти в каталог проекта
 
 ```bash
-cd Electronics_Trade_Network
+cd electronics_trade_network_platform
 ```
 
 5. В корневой папке проекта создать файл `.env`
